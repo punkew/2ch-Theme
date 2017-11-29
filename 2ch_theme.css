@@ -1,0 +1,102 @@
+.board-banner.desktop, .moneymoneymoney {display: none;}
+.nb.desktop, #report-form, .desktop.style-switcher.mselect {display: none;}
+.qr-vk-public, .form-files-limits, .oekaki-images-area, .rules-area, .option-area.desktop {display: none;}
+.postbtn-report,  .postbtn-expall, .postbtn-exp, .turnmeoff, .kupi-passcode-suka, #CommentToolbar, #qr-CommentToolbar {display: none;}
+
+.label.desktop {display: none;}
+.bb-footer{display: none;}
+hr{display: none;}
+
+html, body {
+    background: #ebeae9;
+    /*background-image:url(https://preview.ibb.co/dVtTam/111.png);
+    background-repeat: repeat;
+    background-position: right bottom;
+    background-attachment: fixed, fixed;
+    background-size:150px;*/
+    font-family: Muller,Verdana,sans-serif;
+    font-size:10pt;
+    padding-top:0px;
+    padding-bottom:0px;
+    padding-left:0;
+    padding-right:0;
+    }
+
+#posts-form{margin:auto; width:70%;}
+.thread{}
+
+.oppost-wrapper{min-width: 700px; background:#f8f8f8; margin:auto; width:100%; margin-top:11px; margin-bottom:11px; box-shadow: 0 3px 6px rgba(0,0,0,0.05); padding:10px !important; padding-left:17px !important;}
+.post.oppost{background:#f8f8f8;}
+
+
+.post-wrapper{margin:auto; width:100%; margin-top:11px; margin-bottom:11px;}
+.post.reply{padding:10px !important; padding-left:17px !important; background:#f8f8f8; border:none !important; box-shadow: 0 3px 6px rgba(0,0,0,0.05); min-width: 400px;}
+
+.post-details{color:#696969 !important; font-size:8pt; margin:0;}
+.post-details a{color:#696969 !important; font-size:8pt;}
+.reflink a{color:#696969 !important; font-size:8pt;}
+
+.ABU-refmap {color:#696969 !important; font-size:8pt; margin:0;}
+
+a {color: #4682B4; text-decoration:none !important;}
+.post-email{border-bottom: none !important; text-decoration: none !important;}
+
+.post-message{margin:17px !important; }
+
+#settings{margin-top:0px !important; font-size:10pt; margin-left: 15%; display:block !important; visibility: visible !important; background:#f8f8f8; width:140px; height:25px; padding-left:33px; padding-top:5px; box-shadow: 0 3px 6px rgba(0,0,0,0.05); border-bottom: none !important; text-decoration: none !important; color:#000000;}
+.adminbar__menu {visibility:hidden;}
+
+
+#title{color: #2F4F4F;}
+.reply-label.reply-label-top, .reply-label.reply-label-bot{color: #2F4F4F;}
+.desktop{color: #2F4F4F;}
+
+.mess-post.desktop {color: #2F4F4F;}
+.mess-post.desktop a {color: #2F4F4F;}
+
+.fa.postbtn-favorite.fa-star{color: #2F4F4F;}
+.fa.postbtn-favorite.fa-star-o{color: #2F4F4F;}
+
+.postbtn-options{background:none; border-top:solid 1px #696969; border-right:solid 1px #696969; width:10px; height:10px;}
+.postbtn-hide{background:none; border-bottom:solid 1px #696969 !important; width:10px; height:10px;}
+
+#favorites-box {
+    font-size:10pt;
+    background:#f8f8f8;
+    box-shadow: 0px -3px 6px rgba(0,0,0,0.05);
+    position: fixed; 
+    bottom: 0px; 
+    right: 10px; 
+    border:none;
+    color:#000000;
+    }
+.bb-header-text.bb-header-text-new{color: #2F4F4F; font-size:10pt;}
+.bb .bb-header{font-size:10pt !important; color: #2F4F4F;}
+
+.unkfunc{color:#2E8B57;}
+
+body.replypage .reply .reflink::before {color: #2E8B57 !important;}
+
+#favorites-body a{color: #696969 !important;}
+
+.reply.hidden-thread-box, .reply.hidden-post-box{margin:0; width:100%; margin-top:0px; margin-bottom:0px; border:none !important; background:#f8f8f8; -webkit-border-radius: 0px; -moz-border-radius: 0px; padding:3px; font-size:10pt;}
+
+/*html {-ms-overflow-style: none;}*/
+
+
+.adminbar__boards{width:70%; margin:auto; margin-top:10px !important; margin-bottom:10px !important;}
+
+.reply-label-wrapper{margin-bottom:10px; margin-top:10px;}
+
+.board-info{width:70%; margin:auto !important; margin-top:10px !important; margin-bottom:10px !important;}
+
+#boardstats-box{display: none !important;}
+
+.thread-nav.desktop{width:70%; margin:auto !important; margin-top:10px !important; margin-bottom:10px !important;}
+
+/*Выделение постов. */
+/* Цвет.*/ div.post-wrapper.watched-posts-marker {border-left: solid 5px #4682B4;}
+/* Цвет. */ div.post-wrapper.reply-posts-marker {border-left: dashed 5px #4682B4;} 
+div.post.reply {border-left:none;}
+
+.board-tags{width:70%; margin:auto !important; margin-top:10px !important; margin-bottom:10px !important;}
